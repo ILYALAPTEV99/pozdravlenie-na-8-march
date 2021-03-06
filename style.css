@@ -1,0 +1,40 @@
+header img {
+    width: 60px;
+    height: 50px;
+    border: 1px solid #FFE4E1;
+    border-radius: 21px;
+    margin: 5px;
+}
+
+header h1 {
+    font-family: bold script;
+    color: rgb(248, 4, 118);
+    text-align: center;
+}
+header{
+    background-color: #FFE4E1;
+}
+
+ main p {
+    padding: 6px;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(248, 4, 118);
+}
+main {
+    background-color: #FFE4E1;
+}
+
+main img{
+    margin-left:8px ;
+}
+
+footer p {
+    padding: 6px;
+    font-size: 25px;
+    color: rgb(248, 4, 118);
+}
+
+footer {
+    background-color: #FFE4E1;
+}
